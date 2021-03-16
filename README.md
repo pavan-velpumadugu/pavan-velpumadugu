@@ -1,4 +1,4 @@
->👋 Hi, I’m @pavan-velpumadugu.
+>👋 Hi, I’m **Pavan Velpumadugu**
 
 >👀 I’m interested in Programming,DSA,Data Science,ML,DL,AI....
 
